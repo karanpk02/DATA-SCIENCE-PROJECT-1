@@ -1,7 +1,10 @@
 # DATA-SCIENCE-PROJECT-1
-GUVI DATA SCIENCE PROJECT ON DEMAND FORECASTING
+
+## View the project in kaggle for better understanding with diagrams.
+[Kaggle link](https://www.kaggle.com/code/karanpk/demand-forecasting)
 ***********************************************
-## **About Project**
+
+### **About Project**
 
 Demand forecasting of sales dataset that contain multiple(25) items sold in 10 stores corresponding to each days over 4 
 year period(2013-01-01 to 2017-12-31). Here our ML model will forecast the item demand for next year(2018-01-01 to 2018-03-31).
